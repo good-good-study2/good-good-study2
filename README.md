@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @good-good-study2
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning python matplot
+- 👀 I’m interested in lmgc90 
+- 🌱 I’m currently learning python numpy/matplot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
